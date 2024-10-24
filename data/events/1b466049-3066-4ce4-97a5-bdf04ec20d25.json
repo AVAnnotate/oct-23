@@ -4,7 +4,13 @@
       "label": "Version 1",
       "is_offline": false,
       "file_url": "https://youtu.be/85v7TJAOayw?feature=shared",
-      "duration": 90
+      "duration": 90,
+      "caption_set": [
+        {
+          "annotation_page_id": "3d5064f3-cb0e-4c52-a2bb-80565416f8e1",
+          "speaker_category": "Speaker"
+        }
+      ]
     },
     "90c7336c-fe53-4491-b940-123605ec4cb5": {
       "label": "Version 2",
@@ -30,6 +36,6 @@
   "label": "Elizabeth Bishop's Filling Station",
   "created_at": "2024-10-23T20:01:38.735Z",
   "created_by": "absempere",
-  "updated_at": "2024-10-23T20:04:23.629Z",
+  "updated_at": "2024-10-24T12:39:17.629Z",
   "updated_by": "absempere"
 }
