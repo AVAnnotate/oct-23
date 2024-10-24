@@ -1,15 +1,1 @@
-{
-  "content": [],
-  "created_at": "2024-10-23T20:01:39.330Z",
-  "created_by": "absempere",
-  "title": "Elizabeth Bishop's Filling Station",
-  "slug": "elizabeth-bishops-filling-station",
-  "updated_at": "2024-10-23T20:01:39.330Z",
-  "updated_by": "absempere",
-  "parent": "d4647acc-c094-4a1a-9a6b-bf8b6902f5ab",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "1b466049-3066-4ce4-97a5-bdf04ec20d25"
-  }
-}
+{"content":[],"created_at":"2024-10-23T20:01:39.330Z","created_by":"absempere","title":"Elizabeth Bishop's Filling Station","slug":"elizabeth-bishops-filling-station","updated_at":"2024-10-23T20:01:39.330Z","updated_by":"absempere","parent":"d4647acc-c094-4a1a-9a6b-bf8b6902f5ab","autogenerate":{"enabled":true,"type":"event","type_id":"1b466049-3066-4ce4-97a5-bdf04ec20d25"}}
